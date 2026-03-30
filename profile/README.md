@@ -6,7 +6,7 @@ Llevo más de 7 años programando de forma autodidacta y actualmente canalizo es
 
 > 🌐 **¿Buscas mi CV completo, estadísticas o mis Writeups detallados?**
 > Todo mi perfil profesional, metodologías de explotación y mi trayectoria académica están centralizados en mi portfolio:
-> **[👉 Visita mi Web / Portfolio Interactivo](https://albervad.github.io)** *(Añade aquí tu dominio si usas uno personalizado)*
+> **[👉 Visita mi Web / Portfolio Interactivo](https://bertolt.dev)** *(Añade aquí tu dominio si usas uno personalizado)*
 
 ---
 
@@ -54,6 +54,6 @@ Herramienta propia de productividad para Windows. Un viejo *launcher* utilizado 
 
 ### 📫 Conecta conmigo
 
-* **Portfolio & Writeups:** [Web Personal](https://albervad.github.io)
+* **Portfolio & Writeups:** [Web Personal](https://bertolt.dev)
 * **LinkedIn:** [in/alberto-gabriel-vaduva](https://www.linkedin.com/in/alberto-gabriel-vaduva)
 * **Hack The Box:** [Usuario 1104864](https://app.hackthebox.com/users/1104864)
